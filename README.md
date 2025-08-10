@@ -28,7 +28,7 @@ The **AI Health Assistant** is an interactive web-based application designed to 
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-https://github.com/Brunda6/Virtual-Health-Hub/tree/main
+
 ```
 
 ### 2️⃣ Install Dependencies
